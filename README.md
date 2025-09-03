@@ -2,7 +2,7 @@
 
 
 ## About Me
-다양한 역량을 가진 백엔드 개발자를 꿈꾸며 Pyhton, Django를 기반으로 스포츠 데이터 분석 프로그램 개발에 관심을 가지고 역량을 쌓아가고 있습니다. 
+다양한 역량을 가진 백엔드 개발자를 꿈꾸며 Pyhton, Django를 기반으로 다양한 프로그램 개발에 관심을 가지고 역량을 쌓아가고 있습니다. 
 
 ## Tech Stacks
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=html5&logoColor=white)
