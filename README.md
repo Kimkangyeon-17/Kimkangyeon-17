@@ -5,6 +5,16 @@
 다양한 역량을 가진 백엔드 개발자를 꿈꾸며 Pyhton, Django를 기반으로 다양한 프로그램 개발에 관심을 가지고 역량을 쌓아가고 있습니다. 
 
 ## Tech Stacks
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="70" height="70" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="70" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
 ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
