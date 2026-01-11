@@ -19,7 +19,8 @@
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -40,7 +41,8 @@
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=Ruff&logoColor=black)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
 ![UV](https://img.shields.io/badge/Uv-DE5FE9?style=for-the-badge&logo=Uv&logoColor=white)
-
+![googlecloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![googlecloudstorage](https://img.shields.io/badge/googlecloudstorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimkangyeon-17&layout=donut&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
